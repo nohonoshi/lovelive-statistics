@@ -2,3 +2,16 @@
 *.png
 *.jpg
 *.jpeg
+
+# LibreOffice files
+*.ods
+
+# Jupyter notebooks
+*.ipynb
+
+# Twitter API key
+cast_analysis/Twitter collection/api_key.csv
+
+# Tweet data
+cast_analysis/Twitter collection/tweets/*
+
