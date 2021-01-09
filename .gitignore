@@ -7,6 +7,7 @@
 # Office files
 *.ods
 *.xlsx
+*.pdf
 
 # Jupyter notebooks
 *.ipynb
